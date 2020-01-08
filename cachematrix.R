@@ -1,3 +1,4 @@
+## TEST TEST
 ## These functions introduce a special matrix object which caches its inverse.
 ## The create such a special matrix m you execute \code{m <- makeCacheMatrix(x)}
 ## where x is an ordinary matrix. You can then get the value with \code{m$get()}
